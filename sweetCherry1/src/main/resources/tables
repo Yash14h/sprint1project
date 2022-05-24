@@ -1,0 +1,6 @@
+create database mobiledb;
+\c mobiledb;
+
+
+URL:
+http://localhost:8081/mobileapp/swagger-ui/index.html
